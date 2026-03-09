@@ -59,12 +59,6 @@ Some important findings from the dataset:
 - 📍 Manhattan and Brooklyn together host the majority of listings.
 
 - 🏡 A highly popular listing with many reviews was found in **Queens**, showing that value and hospitality can compete with location.
-
-6️⃣ Repository Structure 📂
-
-- `airbnb_analysis.ipynb` → Jupyter Notebook containing the analysis  
-- `airbnb_dataset.csv` → Dataset used in the project  
-- `README.md` → Project documentation
   
 7️⃣ How to Run the Project ▶️
 
@@ -76,29 +70,30 @@ Some important findings from the dataset:
 9️⃣ Machine Learning Workflow 🧠
 
 The following workflow was followed to analyze the Airbnb dataset and extract meaningful insights.
-1️⃣ Problem Understanding
+
+Problem Understanding
         ↓
-2️⃣ Data Collection
+Data Collection (CSV Dataset)
         ↓
-3️⃣ Data Cleaning & Preprocessing
+Data Cleaning & Preprocessing
         ↓
-4️⃣ Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
         ↓
-5️⃣ Feature Selection / Feature Engineering
+Feature Selection
         ↓
-6️⃣ Data Splitting (Train / Test)
+Data Splitting (Train / Test)
         ↓
-7️⃣ Model Selection
+Model Selection
         ↓
-8️⃣ Model Training
+Model Training
         ↓
-9️⃣ Model Evaluation
+Model Evaluation
         ↓
-🔟 Insights & Visualization
+Data Visualization & Insights
         ↓
-1️⃣1️⃣ Conclusion / Results
+Conclusion
 
 8️⃣ Author 👩‍💻
 Zainab Manzoor
 B.Tech CSE – Jamia Hamdard  
-Interested in AI, Machine Learning, and Data Science
+
